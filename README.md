@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img width="72px" src="https://firebasestorage.googleapis.com/v0/b/random-storage-332ce.appspot.com/o/instagram.svg?alt=media&token=5fe11096-daee-43c1-8d5f-8a77c9f46485">
-</h1>
-
 <p align="center">
   <a href="https://www.npmjs.com/package/instagram-web-api"><img alt="NPM version" src="https://badge.fury.io/js/instagram-web-api.svg"></a>
   <a href="https://circleci.com/gh/jlobos/instagram-web-api"><img alt="Build Status" src="https://circleci.com/gh/jlobos/instagram-web-api.svg?style=shield"></a>
